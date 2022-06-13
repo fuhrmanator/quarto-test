@@ -4,13 +4,13 @@ This "minimal working example" uses PlantUML and GraphViz via [Pandoc's official
 
 Quarto commands of interest:
 
-To generate a PDF version:
+To generate a PDF version (note the `pdf-engine: latexmk` setting in _quarto.yml):
 
 ```
 quarto render diagram-test.qmd --to pdf
 ```
 
-To generate the HTML version:
+To generate the HTML version (note the `self-contained: true` setting in _quarto.yml):
 
 ```
 quarto render diagram-test.qmd --to html

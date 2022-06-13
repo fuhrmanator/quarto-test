@@ -24,3 +24,12 @@ digraph finite_state_machine {
 	LR_8 -> LR_5 [ label = "S(a)" ];
 }
 ```
+
+Check out @fig-plantuml for a Sequence diagram.
+
+```{.plantuml #fig-plantuml caption="This is an image, created by **PlantUML**."}
+@startuml
+Alice -> Bob: Authentication Request Bob --> Alice: Authentication Response
+Alice -> Bob: Another authentication Request Alice <-- Bob: another Response
+@enduml
+```

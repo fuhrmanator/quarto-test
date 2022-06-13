@@ -1,0 +1,14 @@
+format:
+
+  html:
+    # needed for inline graphviz figures
+    self-contained: true
+
+  pdf:
+    # has to be latexmk for graphviz figures
+    pdf-engine: latexmk
+
+
+filters:
+  - filters/diagram-generator.lua
+  - quarto

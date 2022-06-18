@@ -16,3 +16,12 @@ To generate the HTML version (note the `self-contained: true` setting in _quarto
 quarto render diagram-test.qmd --to html
 ```
 
+## Basic SVG (without the diagrams filter) in PDF
+
+Some have had trouble using SVG images because LaTeX doesn't support it natively.
+I have found that `pdf-engine: latexmk` allows it to work with no other configuring.
+Perhaps this example will be of use to you.
+
+```
+quarto render svg-test.qmd --to pdf 
+```

@@ -1,0 +1,5 @@
+# Test of SVG file
+
+![Sample SVG](images/HelloWorld.svg){#fig-svg}
+
+See @fig-svg for an SVG file.

@@ -1,8 +1,7 @@
 format:
 
   html:
-    # needed for inline graphviz figures
-    self-contained: true
+    fig-align: left
 
   pdf:
     # has to be latexmk for graphviz figures

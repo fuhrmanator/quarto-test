@@ -3,3 +3,6 @@
 ![Sample SVG](images/HelloWorld.svg){#fig-svg}
 
 See @fig-svg for an SVG file.
+
+See @Boittiaux2016 for more info.
+

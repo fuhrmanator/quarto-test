@@ -1,0 +1,5 @@
+# More tests {#sec-MoreTest}
+
+Here's more text.
+
+See @sec-SVGtest for more info.

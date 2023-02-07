@@ -12,6 +12,7 @@ format:
         # theme: simple # works
         # theme: sky # doesn't work
         # theme: solarized # works
+        multiplex: true
 ---
 
 # Animated slide

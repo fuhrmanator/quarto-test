@@ -1,3 +1,5 @@
 # Préface {.unnumbered}
 
 Cet ouvrage a commencé comme notes de cours pour le cours _Analyse et conception de logiciel (LOG210)_ dans les programmes de baccalauréat en génie logiciels (LOG) et en génie des technologies de l'information (GTI) de l'École de technologie supérieure (ÉTS) à Montréal, au Québec.
+
+Voir [@Boittiaux2016, ch. 2] pour plus d'informations.

@@ -3,3 +3,9 @@
 Here's more text.
 
 See @sec-SVGtest for more info.
+
+```{.plantuml #fig-PlantUML caption="Ceci est expliqué dans le livre [@Boittiaux2016, chap. 1]"}
+@startuml
+A -> B : Bonjour
+@enduml
+```

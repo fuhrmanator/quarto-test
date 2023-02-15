@@ -1,0 +1,21 @@
+---
+format: 
+    pdf:
+        keep-tex: true
+        header-includes: |
+          \usepackage{ragged2e}
+        
+---
+<!-- see https://github.com/quarto-dev/quarto-cli/discussions/1534 -->
+::: {layout="[5,-1,30]" layout-valign="center"}
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+:::
+
+
+::: {layout="[5,-1,30]" layout-valign="center"}
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+\justifying \noindent This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+:::
